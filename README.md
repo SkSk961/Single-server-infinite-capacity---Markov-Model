@@ -1,8 +1,8 @@
 
 # EXP 4: Single server with infinite capacity (M/M/1):(oo/FIFO)
-## DEVELOPED BY : SHRIRAM VR
-## REG NO : 212224040314
-## DEPT : BE CSE
+## DEVELOPED BY : Sharan kumar.G
+## REG NO : 212224100055
+## DEPT : BE CSE (CYBER SECURITY)
 
 # Date:04.04.2025
 # Aim :
